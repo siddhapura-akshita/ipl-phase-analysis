@@ -292,8 +292,7 @@ notebooks/ipl_strategy_analytics.py
 | `strategy_06_chase_win_trend` | Chase win % by season |
 | `strategy_07_rrr_win_rate` | Win % by required run rate at over 15 |
 | `strategy_08_pressure_index_by_phase` | Top pressure bowlers per phase |
-| `strategy_09_bowler_radar` | Radar profiles — top 6 bowlers |
-| `strategy_10_dashboard` | Full strategy dashboard |
+| `strategy_09_dashboard` | Full strategy dashboard |
 
 ---
 
